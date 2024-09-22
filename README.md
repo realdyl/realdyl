@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my first dev project for my 'folio.
 - 🌱 I’m currently learning front-end development.
-- 👯 I’m looking to collaborate on apps built using AI (esp. Cursor / Replit).
+- 👯 I'm looking to collaborate on apps built using AI (esp. [Cursor](https://www.cursor.com/) / [Replit](https://www.replit.com/)).
 - 🤔 I’m looking for help with the best books & resources.
 - 💬 Ask me about music production, graphic design, or artificial intelligence.
 - 📫 How to reach me: dev@dylanby.design
