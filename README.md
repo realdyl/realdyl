@@ -6,7 +6,7 @@
 - 💬 Ask me about music production, graphic design, or artificial intelligence.
 - 📫 How to reach me: dev@dylanby.design
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: You tell me! :)
+- ⚡ Fun fact: You tell me. :D
 
 <!--
 **realdyl/realdyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
