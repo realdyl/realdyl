@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Dylan
 
-> Building the future with **JEXXXUS** — a full-stack, multi-repo AI-first ecosystem
+> Building the future with **JEXXXUS**—a full-stack, multi-repo AI-first ecosystem
 
 I'm a full-stack developer passionate about **AI-powered applications**, elegant UI/UX design, and creating products that matter. When I'm not coding, I'm producing music or exploring the intersection of design & technology.
 
 ## 🎯 What I'm Up To
 
-- 🔭 Building **[JEXXXUS](https://github.com/blxckbooklabs)** — a sophisticated multi-repo platform with React, Supabase, and AI pipelines
+- 🔭 Building **[JEXXXUS](https://github.com/blxckbooklabs)**—a sophisticated multi-repo platform with React, Supabase, and AI pipelines
 - 🧠 Specialized in **AI persona engines** (embeddings, vector search, LLM integration)
 - 🎨 Crafting **delightful UX** with Tailwind CSS, shadcn/ui, and Framer Motion
 - 🚀 Deploying **production-grade** full-stack apps with Clerk auth, real-time data sync, and mobile-first design
@@ -93,7 +93,7 @@ I'm interested in projects involving:
 
 ---
 
-**⚡ Fun fact:** I balance code with music production and design — if you can build it, you can *design* it, and if you can design it, you can *compose* it. 🎵
+**⚡ Fun fact:** I balance code with music production and design—if you can build it, you can *design* it, and if you can design it, you can *compose* it. 🎵
 
 <!--
 **realdyl/realdyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
