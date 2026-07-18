@@ -6,7 +6,7 @@ I'm a full-stack developer passionate about **AI-powered applications**, elegant
 
 ## 🎯 What I'm Up To
 
-- 🔭 Building **[JEXXXUS](https://github.com/realdyl/realdyl/tree/main)** — a sophisticated multi-repo platform with React, Supabase, and AI pipelines
+- 🔭 Building **[JEXXXUS](https://github.com/blxckbooklabs)** — a sophisticated multi-repo platform with React, Supabase, and AI pipelines
 - 🧠 Specialized in **AI persona engines** (embeddings, vector search, LLM integration)
 - 🎨 Crafting **delightful UX** with Tailwind CSS, shadcn/ui, and Framer Motion
 - 🚀 Deploying **production-grade** full-stack apps with Clerk auth, real-time data sync, and mobile-first design
@@ -14,9 +14,8 @@ I'm a full-stack developer passionate about **AI-powered applications**, elegant
 
 ## 📧 Let's Connect
 
-- **Email:** [dev@dylanby.design](mailto:dev@dylanby.design)
-- **Website:** [dylanby.design](https://dylanby.design)
-- **Pronouns:** he/him/his
+- **Email:** [dildev@jexxx.us](mailto:dildev@jexxx.us)
+- **Website:** [dildev.jexxx.us](https://dildev.jexxx.us)
 
 ---
 
