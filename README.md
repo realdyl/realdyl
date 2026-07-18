@@ -62,7 +62,7 @@ I'm a full-stack developer passionate about **AI-powered applications**, elegant
 
 ---
 
-## 📊 JEXXXUS Ecosystem Repos
+## 📊 JEXXXUS | Ecosystem Repos
 
 | Repo | Purpose | Stack |
 |------|---------|-------|
